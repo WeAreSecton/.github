@@ -13,4 +13,4 @@ At Secton, we believe that software development should be a collaborative proces
 We are committed to delivering high-quality software that meets the needs of our customers. Whether you are an individual or a large enterprise, we can help you drive your business forward.
 
 ## Contact us
-Visit our website at https://secton.eu.org or email us at ~~hello@secton.eu.org~~ secton@mail.com to learn more about us.
+Visit our website at https://secton.eu.org or <a href="mailto:hello@secton.eu.org">email us</a> to learn more about us.
