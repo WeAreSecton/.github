@@ -1,6 +1,7 @@
-<img src="https://i.imgur.com/bm8tb7z.png" data-canonical-src="https://i.imgur.com/bm8tb7z.png" width="64" height="64" />
-
-# Secton
+<h1>
+  <img src="https://i.imgur.com/bm8tb7z.png" data-canonical-src="https://i.imgur.com/bm8tb7z.png" align="right" width="44" height="44" />
+  Secton
+</h1>
 We are a software development and web hosting company that offers a range of services to our customers.
 
 ## About us
