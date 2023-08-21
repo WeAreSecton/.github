@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://i.imgur.com/bm8tb7z.png" data-canonical-src="https://i.imgur.com/bm8tb7z.png" align="right" width="44" height="44" />
+  <img src="https://i.imgur.com/bm8tb7z.png" data-canonical-src="https://i.imgur.com/bm8tb7z.png" align="right" width="48" height="48" />
   Secton
 </h1>
 We are a software development and web hosting company that offers a range of services to our customers.
