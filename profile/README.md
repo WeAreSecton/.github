@@ -12,4 +12,4 @@ We believe that everything should be possible online and that technology should 
 We are committed to delivering high-quality software that meets the needs of our customers. Whether you are an individual or a large enterprise, we can help you drive your business forward.
 
 ## Contact us
-Visit our website at https://secton.eu.org or <a href="mailto:hello@secton.eu.org">email us</a> to learn more about us.
+Visit our website at https://secton.eu.org or <a href="mailto:hello@secton.eu.org">email us</a> to learn more.
